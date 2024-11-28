@@ -1,0 +1,1 @@
+Este projeto é um sistema básico de gerenciamento de veículos em C, desenvolvido como meu primeiro projeto de faculdade. Ele permite realizar operações como cadastrar veículos, listar todos os registros e buscar informações específicas, aplicando conceitos inicias de programação estruturada, como estrutura de dados (struct) e manipulação de strings.
